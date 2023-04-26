@@ -1,35 +1,33 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fysl36)  
+![logo](https://github.com/Fysl36/Fysl36/blob/main/BRAIN-WAVE-7-Final%2012.png)
 
-# Hello there 👋
+<h1 align="center">Hi 👋, I'm Faysal Mahmud</h1>
+<h3 align="center">A passionate frontend Developer and Software Engineer</h3>
 
+<img align="right" al="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-**Fysl36/Fysl36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋, My name is Faysal Mahmud
-#### Web Developer & Software Engineering 
-![Web Developer & Software Engineering ](https://scontent.fdac139-1.fna.fbcdn.net/v/t39.30808-6/341886677_2128780157327353_2259421770660154865_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGa4FTZH-O7EATM-RTpeHZiOmU7juP3osQ6ZTuO4_eixH9qoAJbiiTZ5TFcK5VBYhgioKEqZ-8HdByGovaGl384&_nc_ohc=BanQ95nyp8EAX-kETkZ&_nc_ht=scontent.fdac139-1.fna&oh=00_AfC6oGnaLcIcskpNoj0yu_P1ExyKS_TSFLw3CnPGwYIE4Q&oe=644EF542)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fysl36&label=Profile%20views&color=0e75b6&style=flat" alt="fysl36" /> </p>
 
-😎“If opportunity doesn't knock, build a door.”💪
+- 💬 Ask me about game **Valorent**
 
-Skills: VUE JS / C / C++ / JS / HTML / CSS / Flutter
+- 📫 Reach me **fysl36@gmail.com
 
-- 🔭 I’m currently working on Brain Wave 7 
-- 🌱 I’m currently learning React 
+- ⚡ Fun fact **come in to the unknown**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/jack_frost_36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/jack_frost_36" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/faysal-mahmud-8a3873179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faysal-mahmud-8a3873179/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/faysal.mahmud.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/faysal.mahmud.73" height="30" width="40" /></a>
+<a href="https://instagram.com/faysal.mahmud.73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faysal.mahmud.73" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uchdkgz8rmdqsxedgf0jcnxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchdkgz8rmdqsxedgf0jcnxg" height="30" width="40" /></a>
+<a href="https://discord.gg//̵̿̿/'̿̿ ̿̿ ̿̿ ᒎ𝔞Ⓒķ FЯӨƧƬ ˙˙❤#4016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="/̵̿̿/'̿̿ ̿̿ ̿̿ ᒎ𝔞Ⓒķ FЯӨƧƬ ˙˙❤#4016" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fysl36)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fysl36&show_icons=true&locale=en&layout=compact" alt="fysl36" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fysl36)](https://github.com/ryo-ma/github-profile-trophy)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fysl36&show_icons=true&locale=en" alt="fysl36" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fysl36)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fysl36&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fysl36)  
-
-![GitHub metrics](https://metrics.lecoq.io/Fysl36)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Fysl36)  
-
-![Profile views](https://gpvc.arturio.dev/Fysl36)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fysl36&" alt="fysl36" /></p>
