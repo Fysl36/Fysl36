@@ -1,4 +1,4 @@
-![logo](https://github.com/Fysl36/Fysl36/blob/main/BRAIN-WAVE-7-Final%2012.png)
+![logo](https://github.com/Fysl36/Fysl36/blob/main/Bw7-logo-135x31.png)
 
 <h1 align="center">Hi 👋, I'm Faysal Mahmud</h1>
 <h3 align="center">A passionate frontend Developer and professional Software Engineer</h3>
