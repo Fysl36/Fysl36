@@ -2,11 +2,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Faysal+Mahmud....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Faysal+Mahmud.;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-<h3 align="center">A passionate frontend Developer and professional Software Engineer</h3>
+<h3 align="center">Software Engineer (Web Developer/Front-End Developer/Designer)</h3>
 
 <img align="right" al="coading" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
