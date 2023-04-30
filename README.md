@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fysl36&label=Profile%20views&color=0e75b6&style=flat" alt="fysl36" /> </p>
 
-- 💬 Ask me about game **Brain Wave 7**
+- 💬 Ask me about **Brain Wave 7**
 
-- 📫 Reach me **fysl36@gmail.com
+- 📫 Reach me **fysl36@gmail.com**
 
 - ⚡ Fun fact **come in to the unknown**
 
