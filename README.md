@@ -16,7 +16,7 @@
 
 - 📫 Reach me **fysl36@gmail.com**
 
-- ⚡ Fun fact **come in to the unknown**
+- ⚡ Fun fact **always play with new code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
