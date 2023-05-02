@@ -28,7 +28,7 @@
 <a href="https://discord.gg//̵̿̿/'̿̿ ̿̿ ̿̿ ᒎ𝔞Ⓒķ FЯӨƧƬ ˙˙❤#4016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="/̵̿̿/'̿̿ ̿̿ ̿̿ ᒎ𝔞Ⓒķ FЯӨƧƬ ˙˙❤#4016" height="30" width="40" /></a>
 </p>
 
-<h3  style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h3  style="color: #44AEFB">⚙️ Languages and Tools / Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
